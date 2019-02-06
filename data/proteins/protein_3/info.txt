@@ -1,0 +1,5 @@
+Taq DNA polymerase I, 3 conformations
+
+1 - https://www.rcsb.org/structure/2KTQ
+2 - https://www.rcsb.org/structure/3KTQ
+3 - https://www.rcsb.org/structure/4KTQ

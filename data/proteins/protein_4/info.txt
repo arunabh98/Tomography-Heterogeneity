@@ -1,0 +1,5 @@
+Guanylate Kinase, 3 conformations
+
+1 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1gky&bionumber=1&jmolMode=HTML5
+2 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1ex7&bionumber=1&jmolMode=HTML5
+3 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1ex6&bionumber=1&jmolMode=HTML5

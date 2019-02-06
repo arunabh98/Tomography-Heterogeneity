@@ -1,0 +1,2 @@
+Initial number of clusters classified incorrectly: 24 
+Final number of projections classified incorrectly: 5

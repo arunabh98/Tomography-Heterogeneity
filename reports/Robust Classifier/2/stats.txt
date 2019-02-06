@@ -1,0 +1,2 @@
+Initial number of projections classified incorrectly: 32
+Final number of projections classified incorrectly: 11 

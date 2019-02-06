@@ -1,0 +1,7 @@
+Lipase, 5 conformations
+
+1 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1cle&bionumber=1&jmolMode=HTML5
+2 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1crl&bionumber=1&jmolMode=HTML5
+3 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1crl&bionumber=1&jmolMode=HTML5
+4 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1lpb&bionumber=1&jmolMode=HTML5
+5 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1thg&bionumber=1&jmolMode=HTML5
