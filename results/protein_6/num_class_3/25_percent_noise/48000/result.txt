@@ -1,0 +1,6 @@
+Number of projection clusters classified incorrectly initially: 519 
+Number of projection clusters classified incorrectly finally: 184 
+Number of projections classified incorrectly: 1481 
+Final image rmse error: 24.79 
+Final image rmse error: 18.71 
+Final image rmse error: 41.38 

@@ -1,7 +1,0 @@
-Annexin V, 3 conformations
-
-http://www.molmovdb.org/cgi-bin/motion.cgi?ID=anxtrp
-
-1 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=2ran&bionumber=1&jmolMode=HTML5
-2 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1anx&bionumber=1&jmolMode=HTML5
-3 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1avr&bionumber=1&jmolMode=HTML5

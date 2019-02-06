@@ -1,5 +1,0 @@
-Cystatin, 3 conformations
-
-1 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1a67&bionumber=&jmolMode=HTML5
-2 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1cew&bionumber=1&jmolMode=HTML5
-3 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1g96&bionumber=1&jmolMode=HTML5

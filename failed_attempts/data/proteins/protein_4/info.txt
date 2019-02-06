@@ -1,4 +1,0 @@
-Rho RNA-binding, 2 conformations
-
-1 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=1a8v&bionumber=1&jmolMode=HTML5
-2 - https://www.rcsb.org/pdb/explore/jmol.do?structureId=2a8v&bionumber=1&jmolMode=HTML5
